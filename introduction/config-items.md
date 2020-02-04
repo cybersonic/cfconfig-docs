@@ -184,7 +184,8 @@ name='inMemoryFileSystemLimit' type='numeric'
 // Number of MB for in memory application file system
 name='inMemoryFileSystemAppLimit' type='numeric'
 
-// True/false
+
+// Check for changes in the config server side config file (True/false)
 name='watchConfigFilesForChangesEnabled' type='boolean'
 // Number of seconds
 name='watchConfigFilesForChangesInterval' type='numeric'
